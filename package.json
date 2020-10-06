@@ -1,0 +1,24 @@
+{
+  "name": "virualshowroom",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.html",
+  "scripts": {
+    "start": "npm run lite",
+    "lite" : "lite-server",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/HegdeShashank/VirualShowRoom.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/HegdeShashank/VirualShowRoom/issues"
+  },
+  "homepage": "https://github.com/HegdeShashank/VirualShowRoom#readme",
+  "devDependencies": {
+    "lite-server": "^2.5.4"
+  }
+}
